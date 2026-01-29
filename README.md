@@ -142,6 +142,6 @@ Retro platformer using free assets, featuring diverse enemy types, multiple boss
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/igor-buzian-70a75730a/)  
 - [Email](mailto:igoribuzian@gmail.com)  
 - Open for collaboration, code reviews, and challenging projects 🚀
