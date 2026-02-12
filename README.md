@@ -1,9 +1,6 @@
 # 👋 Hello, I'm Igor Buzian
 
-Full-Stack Developer | Backend-focused
-
-I build scalable, high-performance backend systems and maintain clean, maintainable frontend code. My background includes professional Unity development and extensive experience with enterprise Java frameworks.
-
+> Full‑Stack Developer at **Cedacri International**, building enterprise Java systems and modern front‑end applications with a focus on clean architecture, backend scalability, and maintainable cross‑stack development.
 ---
 ## 🛠️ Tech Stack
 ### Backend (Java Ecosystem)
